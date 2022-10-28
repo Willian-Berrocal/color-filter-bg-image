@@ -1,0 +1,1 @@
+>A banner for title with a background image that has a color filter.
